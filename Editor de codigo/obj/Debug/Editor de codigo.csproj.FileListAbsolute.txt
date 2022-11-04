@@ -1,0 +1,10 @@
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\bin\Debug\Editor de codigo.exe.config
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\bin\Debug\Editor de codigo.exe
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\bin\Debug\Editor de codigo.pdb
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor de codigo.csproj.AssemblyReference.cache
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor_de_codigo.Form1.resources
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor_de_codigo.Properties.Resources.resources
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor de codigo.csproj.GenerateResource.cache
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor de codigo.csproj.CoreCompileInputs.cache
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor de codigo.exe
+C:\Users\domin\Source\Repos\Text-Editor\Editor de codigo\obj\Debug\Editor de codigo.pdb
